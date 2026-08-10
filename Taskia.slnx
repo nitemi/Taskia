@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Taskia.Api/Taskia.Api.csproj" />
+    <Project Path="src/Taskia.Application/Taskia.Application.csproj" />
+    <Project Path="src/Taskia.Domain/Taskia.Domain.csproj" />
+    <Project Path="src/Taskia.Infrastructure/Taskia.Infrastructure.csproj" />
+    <Project Path="src/Taskia.Maui/Taskia.Maui.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Taskia.Application.Tests/Taskia.Application.Tests.csproj" />
+    <Project Path="tests/Taskia.Domain.Tests/Taskia.Domain.Tests.csproj" />
+    <Project Path="tests/Taskia.Infrastructure.Tests/Taskia.Infrastructure.Tests.csproj" />
+  </Folder>
+</Solution>
